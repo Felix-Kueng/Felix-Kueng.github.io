@@ -37,18 +37,6 @@ hr {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 61, 100, 0.6), rgba(0, 0, 0, 0));
 }
 
-header h1,
-header p {
-  display: none;
-}
-
-header img {
-  width: 100%;
-}
-
-header h1 {
-  text-indent: -9999px;
-}
 
 nav {
   font-size: 1em;
