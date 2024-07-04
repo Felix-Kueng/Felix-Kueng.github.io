@@ -7,14 +7,14 @@ body {
   margin: 0;
 }
 
-div#mountain {
+div#kite {
   position: fixed;
   height: 100%;
   width: 100%;
   z-index: -1;
   opacity: 0.2;
   background-color: #f3f8ef;
-  background-image: url("../mountain-4x.jpg");
+  background-image: url("../kite.jpg");
   background-repeat: no-repeat;
   background-size: 70%;
   background-position: bottom left;
