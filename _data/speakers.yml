@@ -1,0 +1,124 @@
+auroux:
+  name: Denis Auroux
+  affiliation: Harvard University
+  website: https://people.math.harvard.edu/~auroux/
+
+bezrukavnikov:
+  name: Roman Bezrukavnikov
+  affiliation: MIT
+  website: http://math.mit.edu/~bezrukav/
+
+calaque:
+  name: Damien Calaque
+  affiliation: University of Montpellier
+  website: https://imag.umontpellier.fr/~calaque/
+
+gasparim:
+  name: Elizabeth Gasparim
+  affiliation: Universidad Católica del Norte
+  website: https://sites.google.com/view/elizabethgasparim
+
+gualtieri:
+  name: Marco Gualtieri
+  affiliation: University of Toronto
+  website: https://www.math.toronto.edu/mgualt/
+  online: true
+
+halpernleistner:
+  name: Daniel Halpern-Leistner
+  affiliation: Cornell University
+  website: http://pi.math.cornell.edu/~danielhl/
+  online: true
+
+kaledin:
+  name: Dmitry Kaledin
+  affiliation: Steklov Mathematical Institute and Higher School of Economics
+  website: http://www.mi.ras.ru/~kaledin/
+
+kapranov:
+  name: Mikhail Kapranov
+  affiliation: Yale University
+  website: https://db.ipmu.jp/member/personal/2760en.html
+
+keller:
+  name: Bernhard Keller
+  affiliation: Université Paris Cité
+  website: https://webusers.imj-prg.fr/~bernhard.keller/
+  online: true
+
+kuznetsov:
+  name: Alexander Kuznetsov
+  affiliation: Steklov Mathematical Institute
+  website: http://www.mi.ras.ru/~akuznet/
+
+neeman:
+  name: Amnon Neeman
+  affiliation: Australian National University
+  website: http://maths-people.anu.edu.au/~neeman/
+
+padurariu:
+  name: Tudor Pădurariu
+  affiliation: Columbia University
+  website: https://www.math.columbia.edu/~tpad/
+
+perry:
+  name: Alexander Perry
+  affiliation: University of Michigan
+  website: http://www-personal.umich.edu/~arper/
+  online: true
+
+polishchuk:
+  name: Alexander Polishchuk
+  affiliation: University of Oregon
+  website: https://pages.uoregon.edu/apolish/
+  online: true
+
+rizzardo:
+  name: Alice Rizzardo
+  affiliation: University of Liverpool
+  website: https://pcwww.liv.ac.uk/~arizzard/
+
+sierra:
+  name: Sue Sierra
+  affiliation: University of Edinburgh
+  website: https://www.maths.ed.ac.uk/~ssierra/
+  online: true
+
+stafford:
+  name: Toby Stafford
+  affiliation: University of Manchester
+  website: https://personalpages.manchester.ac.uk/staff/toby.stafford/
+  online: true
+
+stroppel:
+  name: Catharina Stroppel
+  affiliation: University of Bonn
+  website: http://www.math.uni-bonn.de/ag/stroppel/
+  online: true
+
+taelman:
+  name: Lenny Taelman
+  affiliation: Universiteit van Amsterdam
+  website: https://staff.fnwi.uva.nl/l.d.j.taelman/
+
+tabuada:
+  name: Gonçalo Tabuada
+  affiliation: University of Warwick
+  website: https://homepages.warwick.ac.uk/staff/Goncalo.Tabuada/
+  online: true
+
+tsygan:
+  name: Boris Tsygan
+  affiliation: Northwestern University
+  website: https://sites.math.northwestern.edu/~tsygan/
+
+vezzosi:
+  name: Gabriele Vezzosi
+  affiliation: University of Firenze
+  website: http://www.dma.unifi.it/~vezzosi/
+  online: true
+
+wemyss:
+  name: Michael Wemyss
+  affiliation: University of Glasgow
+  website: https://www.maths.gla.ac.uk/~mwemyss/
