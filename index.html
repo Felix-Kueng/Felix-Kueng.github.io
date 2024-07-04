@@ -17,22 +17,7 @@ layout: default
 
 
 <h2>List of speakers</h2>
-<ul class="names">
-{ for speaker_id in site.data.speakers }
-{% assign speaker = speaker_id[1] %}
-  <li><span class="name">
-  {% if speaker.website %}
-    <a href="{{ speaker.website }}">{{ speaker.name }}</a>
-  {% else %}
-    {{ speaker.name }}
-  {% endif %}
-  </span>
-  {% if speaker.online %}
-    *
-  {% endif %}
-  (<span class="affiliation">{{ speaker.affiliation }}</span>)
-{% endfor %}
-</ul>
+
 
 <p>* online</p>
 
