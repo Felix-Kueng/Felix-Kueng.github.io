@@ -171,7 +171,7 @@ a:hover {
 }
 
 a:active {
-  color: red;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
